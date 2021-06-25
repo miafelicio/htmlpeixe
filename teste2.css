@@ -46,3 +46,32 @@ section {
 img {
     margin-top: 3cm;
 }
+.zap{
+    width: 80px;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+ }
+ 
+ .video{
+     margin-top: 4mm;
+ }
+ 
+ .blocão{
+     width: 100%;
+     height: 300px;
+     background-color: rgb(20, 20, 106);
+ }
+ 
+ .isso{
+     position: relative;
+ }
+ 
+ .nadador{
+     position: absolute;
+     top: -10px;
+     left: 40%;
+     width: 254px;
+     background-color: rgb(54, 54, 154) ;
+     
+ }
